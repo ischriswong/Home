@@ -9,9 +9,9 @@
                     "name": "博客",
                     "url": "https://weblog.us.kg/"
                 }, {
-                    "icon": "Code",
-                    "name": "力扣",
-                    "url": "https://leetcode.cn/"
+                    "icon": "Compass",
+                    "name": "导航",
+                    "url": "https://nav.wangying.us.kg/"
                 }, {
                     "icon": "Search",
                     "name": "搜索",
@@ -31,9 +31,9 @@
                 }
            ], [
                    {
-                    "icon": "Book",
-                    "name": "背单词",
-                    "url": "https://kaiyiwing.gitee.io/qwerty-learner/"
+                    "icon": "Airplane",
+                    "name": "科学上网",
+                    "url": "https://airplane.us.kg/"
                 }
             ]
         ]
