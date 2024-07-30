@@ -13,9 +13,9 @@
                     "name": "导航",
                     "url": "https://nav.wangying.us.kg/"
                 }, {
-                    "icon": "Search",
-                    "name": "搜索",
-                    "url": "https://kaifa.baidu.com/"
+                    "icon": "User",
+                    "name": "简介",
+                    "url": "https://chriswong.us.kg/"
                 }, {
                     "icon": "CompactDisc",
                     "name": "音乐",
@@ -25,9 +25,9 @@
                     "name": "网盘",
                     "url": "https://wcloud.us.kg/"
                 }, {
-                    "icon": "Train",
-                    "name": "开往",
-                    "url": "https://www.foreverblog.cn/go.html"
+                    "icon": "File",
+                    "name": "作品集",
+                    "url": "https://work.cloudns.be"
                 }
            ], [
                    {
