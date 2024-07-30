@@ -52,7 +52,7 @@
         "PencilAlt": PencilAlt,
         "Search": Search,
         "SlidersH": SlidersH,
-        "Airplane": Plane,
+        "Plane": Plane,
         "Compass": Compass,
         "Train": Train
     };
