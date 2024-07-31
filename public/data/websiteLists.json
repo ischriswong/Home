@@ -34,6 +34,10 @@
                     "icon": "Plane",
                     "name": "科学上网",
                     "url": "https://airplane.us.kg/"
+                }, {
+                "icon": "Link",
+                    "name": "门户",
+                    "url": "https://link.wangying.us.kg/"
                 }
             ]
         ]
