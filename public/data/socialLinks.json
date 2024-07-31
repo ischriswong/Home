@@ -19,5 +19,15 @@
         "icon": "/image/icon/email.png",
         "tip": "来封 Email ~",
         "url": "mailto:ischriswong@gmail.com"
-    }
+    }, {
+        "name": "Twitter",
+        "icon": "/image/icon/twitter.png",
+        "tip": "国际友人点这里",
+        "url": "https://x.com/ischriswong"
+    }, {
+        "name": "Telegram",
+        "icon": "/image/icon/telegram.png",
+        "tip": "你懂的",
+        "url": "https://t.me/ischriswong"
+    } 
 ]
