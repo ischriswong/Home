@@ -38,6 +38,10 @@
                 "icon": "Link",
                     "name": "门户",
                     "url": "https://link.wangying.us.kg/"
+                }, {
+                "icon": "Film",
+                    "name": "影视",
+                    "url": "https://mov.cloudns.be/"
                 }
             ]
         ]
