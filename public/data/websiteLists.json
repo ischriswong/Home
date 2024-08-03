@@ -42,6 +42,10 @@
                 "icon": "Film",
                     "name": "影视",
                     "url": "https://mov.cloudns.be/"
+                }, {
+                "icon": "Image",
+                    "name": "图床",
+                    "url": "https://imgbed.us.kg/"
                 }
             ]
         ]
