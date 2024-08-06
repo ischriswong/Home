@@ -41,11 +41,19 @@
                 }, {
                 "icon": "Film",
                     "name": "影视",
-                    "url": "https://mov.cloudns.be/"
+                    "url": "https://vd.cloudns.be/"
                 }, {
                 "icon": "Image",
                     "name": "图床",
                     "url": "https://imgbed.us.kg/"
+                }, {
+                "icon": "Hdd",
+                    "name": "Alist",
+                    "url": "https://nas.cloudns.be/"
+                }, {
+                "icon": "Server",
+                    "name": "VPS",
+                    "url": "https://vps.wangying.us.kg/"
                 }
             ]
         ]
