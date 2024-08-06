@@ -28,7 +28,7 @@
     import { loadData } from '@/api';
     import { Icon } from "@vicons/utils";
     import { Error } from "@icon-park/vue-next";
-    import { Bars, Blog, Book, Cloud, Code, Cog, CompactDisc, Fan, Link, Music, PencilAlt, Search, SlidersH, Train, Plane, Compass, File, User, Film, Image } from "@vicons/fa";
+    import { Bars, Blog, Book, Cloud, Code, Cog, CompactDisc, Fan, Link, Music, PencilAlt, Search, SlidersH, Train, Plane, Compass, File, User, Film, Image, Hdd, Server } from "@vicons/fa";
 
     import { mainStore } from "@/store";
 
@@ -57,6 +57,8 @@
         "User": User,
         "Film": Film,
         "Compass": Compass,
+        "Hdd": Hdd,
+        "Server": Server,
         "Image": Image,
         "Train": Train
     };
